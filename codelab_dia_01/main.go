@@ -1,5 +1,11 @@
 package main
 
+import "fmt"
+
 func main() {
-	println("coloque suas resoluções nesse arquivo :D")
+	println("exercicio 01 do lab 1 :D")
+	var numero int
+	numero = 5
+	fmt.Println('\n', numero)
+
 }
