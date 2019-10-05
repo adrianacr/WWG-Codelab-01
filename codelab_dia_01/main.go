@@ -7,9 +7,9 @@ func main() {
 	var primeiroNumero int
 	var segundoNumero int
 	var terceiroNumero int
-	primeiroNumero = 5
-	segundoNumero = 10
-	terceiroNumero = 15
+	primeiroNumero = 15
+	segundoNumero = 30
+	terceiroNumero = 45
 
 	fmt.Println("Primeiro numero", primeiroNumero)
 	fmt.Println("Segundo numero", segundoNumero)
